@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,WAEE,YAAa,CACb,qBAAsB,CACtB,kBAAmB,CACnB,eAAgB","file":"main.72fe583f.chunk.css","sourcesContent":[".app,\n.list {\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  list-style: none;\n}\n"]}
